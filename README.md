@@ -112,7 +112,7 @@
 
 ## Contributing
 
-You don't.
+You don't. You don't. 
 
 ## Prototype
 
